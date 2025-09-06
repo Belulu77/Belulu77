@@ -1,70 +1,96 @@
-<!-- README para perfil de GitHub de Belu -->
-<h1 align="center">👩‍💻✨ Belen Luz Ruiz Diaz ✨👩‍💻</h1>
+<!-- README del perfil de Belén Luz Ruiz Díaz -->
+<h1 align="center">🌸✨ Hola, soy Belén Luz Ruiz Díaz ✨🌸</h1>
+<h3 align="center">Desarrolladora Web y Apasionada por la Tecnología 💻💖</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsY0uL4qKm6y3xG/giphy.gif" alt="Animación tech rosa" width="300"/>
-</p>
-
-<p align="center">
-  💖 Apasionada por la programación, el diseño web y la tecnología  
-  🌸 HTML | CSS | JS | PHP | Python | Frameworks | Bases de Datos  
-  🎨 Marketing Digital | UX/UI | Diseño Web
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Tech Animation" width="300"/>
 </p>
 
 ---
 
-## 💻 Habilidades técnicas
+## 💖 Sobre mí
+Soy estudiante y desarrolladora en crecimiento, apasionada por crear soluciones **web y móviles**. Me encanta aprender y combinar **programación, diseño y marketing** para construir proyectos que sean **bonitos, funcionales y eficientes**.  
 
-| Lenguajes | Frameworks | Herramientas |
-|-----------|-----------|--------------|
-| HTML5, CSS3, JS | React, Bootstrap, Laravel | Git/GitHub |
-| PHP, Python | Django, Node.js | VS Code, Figma |
-| SQL, MySQL | Flutter, React Native | Canva, Trello |
-
----
-
-## 🌟 Proyectos Destacados
-
-### 1. **TechParts** - Inventario de Tecnología
-- Aplicación web para gestionar productos de electrónica  
-- Stack: HTML, CSS, JS, Node.js, Express  
-- [Repositorio](https://github.com/Belulu77/TechParts)
-
-### 2. **Lista de Compras Interactiva**
-- Proyecto con DOM, localStorage y JS  
-- Permite agregar, eliminar, marcar y ordenar productos  
-- [Repositorio](https://github.com/Belulu77/ListaDeCompras)
-
-### 3. **Tablero de Puntos**
-- App web para gestionar puntuaciones entre 2 equipos  
-- Incluye funciones de reinicio, invertir puntaje y atajos de teclado  
-- [Repositorio](https://github.com/Belulu77/TableroDePuntos)
+- 💻 **Lenguajes:** HTML, CSS, JavaScript, PHP, Python  
+- 🛠 **Frameworks & Librerías:** React, Bootstrap, jQuery, Flask  
+- 🗄 **Bases de Datos:** MySQL, SQLite, MongoDB  
+- 🎨 **Diseño y Marketing:** UX/UI, diseño web, branding  
+- 🌱 Siempre aprendiendo nuevas tecnologías y tendencias.
 
 ---
 
-## 🎨 Diseño y Marketing
-- Experiencia en **UX/UI** y diseño de interfaces atractivas  
-- Creación de **landing pages**, banners animados y contenido visual  
-- Conocimiento en **marketing digital** y estrategias para web  
+## 🌸 Habilidades Destacadas
+
+| Habilidad | Nivel |
+|-----------|-------|
+| HTML & CSS | ⭐⭐⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐⭐✰ |
+| PHP & Python | ⭐⭐⭐⭐✰ |
+| Frameworks | ⭐⭐⭐⭐✰ |
+| Bases de Datos | ⭐⭐⭐⭐✰ |
+| Marketing Digital | ⭐⭐⭐✰✰ |
+| Diseño Web | ⭐⭐⭐⭐✰ |
 
 ---
 
-## ✨ Me encanta:
-- Aprender cosas nuevas sobre **programación y tecnología**  
-- Crear proyectos con **colores y estética femenina/tech**  
-- Resolver problemas de forma **creativa y ordenada**  
+## ✨ Proyectos Destacados
+
+### 🌷 Proyecto Web Interactivo
+- Tecnologías: **HTML, CSS, JS, Bootstrap**  
+- Funcionalidades: Animaciones, formularios dinámicos, responsive design  
+- [Ver Proyecto](https://github.com/Belulu77/ProyectoWeb)
+
+### 🌸 Aplicación de Lista de Compras
+- Tecnologías: **JavaScript, DOM, LocalStorage**  
+- Funcionalidades: Agregar/Eliminar/Marcar productos, persistencia local  
+- [Ver Proyecto](https://github.com/Belulu77/ListaCompras)
+
+### 💖 Tablero de Puntos Interactivo
+- Tecnologías: **HTML, CSS, JS**  
+- Funcionalidades: Contador de puntos para juegos, botones dinámicos, estilos personalizados  
+- [Ver Proyecto](https://github.com/Belulu77/TableroPuntos)
 
 ---
 
-## 📫 Contacto
-- Correo: **belenruizdiaz@example.com**  
-- LinkedIn: [Belu en LinkedIn](https://www.linkedin.com/)  
-- Portfolio: [Mi Portfolio Web](https://belulu77.github.io/)  
-
----
+## 🎀 Herramientas y Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="400"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
+
+---
+
+## 🌸 Redes y Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/belen-luz-ruiz-diaz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:belulu@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨ GIF Final de Tecnología y Estilo Femenino
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Tech Girl"/>
+</p>
+
+---
+
+> 🌸 **Siempre aprendiendo, siempre creando, siempre innovando.**  
+> 💻 Con amor por la tecnología y un toque rosa ✨
 
 
