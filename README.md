@@ -75,14 +75,12 @@ Soy estudiante y desarrolladora en crecimiento, apasionada por crear soluciones 
   <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="mailto:belulu@example.com" target="_blank">
+  <a href="Ruizdiazb378@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-## ✨ GIF Final de Tecnología y Estilo Femenino
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Tech Girl"/>
