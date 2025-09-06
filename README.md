@@ -3,7 +3,7 @@
 <h3 align="center">Desarrolladora Web y Apasionada por la Tecnología 💻💖</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="400"/>
+  <img src="https://www.funimada.com/birthday-cards/with-name/belen/belen-40.gif" alt="GIF animado con el nombre Belén" width="300"/>
 </p>
 
 ---
