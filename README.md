@@ -3,7 +3,7 @@
 <h3 align="center">Desarrolladora Web y Apasionada por la Tecnología 💻💖</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Tech Animation" width="300"/>
+  <img src="https://media.giphy.com/media/3o6ZsY0uL4qKm6y3xG/giphy.gif" alt="Animación tech rosa" width="300"/>
 </p>
 
 ---
