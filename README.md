@@ -3,7 +3,7 @@
 <h3 align="center">Desarrolladora Web y Apasionada por la Tecnología 💻💖</h3>
 
 <p align="center">
-  <img src="https://www.funimada.com/birthday-cards/with-name/belen/belen-40.gif" alt="GIF animado con el nombre Belén" width="300"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Animación divertida" width="300"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@ Soy estudiante y desarrolladora en crecimiento, apasionada por crear soluciones 
 | PHP & Python | ⭐⭐⭐⭐✰ |
 | Frameworks | ⭐⭐⭐⭐✰ |
 | Bases de Datos | ⭐⭐⭐⭐✰ |
-| Marketing Digital | ⭐⭐⭐✰✰ |
+| Marketing Digital | ⭐⭐⭐⭐✰ |
 | Diseño Web | ⭐⭐⭐⭐✰ |
 
 ---
