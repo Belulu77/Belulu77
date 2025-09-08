@@ -75,7 +75,7 @@ Soy estudiante y desarrolladora en crecimiento, apasionada por crear soluciones 
   <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="Ruizdiazb378@gmail.com" target="_blank">
+  <a href="https://github.com/Belulu77/Belulu77/blob/main/gmail" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
