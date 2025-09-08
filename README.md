@@ -69,7 +69,7 @@ Soy estudiante y desarrolladora en crecimiento, apasionada por crear soluciones 
 ## 🌸 Redes y Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/belen-luz-ruiz-diaz/" target="_blank">
+  <a href="https://www.linkedin.com/in/belenluzruizdiaz7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/" target="_blank">
