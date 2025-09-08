@@ -72,7 +72,7 @@ Soy estudiante y desarrolladora en crecimiento, apasionada por crear soluciones 
   <a href="https://www.linkedin.com/in/belenluzruizdiaz7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://x.com/belen_diaz40426" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://github.com/Belulu77/Belulu77/blob/main/gmail" target="_blank">
